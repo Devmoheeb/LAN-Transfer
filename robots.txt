@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devmoheeb.github.io/LAN-Transfer/sitemap.xml
